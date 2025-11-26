@@ -1,0 +1,49 @@
+* {
+  margin: 0.5rem;
+  padding: 10;
+}
+p {
+  font-size: 21px;
+  text-align: left;
+  font-family: "PT Serif";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  margin-top: 1%;
+  font-size: 21px 1.3125;
+  color: #414141;
+}
+h1 {
+  color: #0a0808;
+  text-align: center;
+  font-size: 150px;
+  font-family: "Cinzel";
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  padding: 0.8px;
+  margin-top: 10%;
+}
+.subtitle {
+  color: #7d7d7d;
+  text-align: center;
+  font-size: 36px;
+  font-family: "PT Serif";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  padding: 0.8px;
+  margin-bottom: 2%;
+}
+img {
+  width: 200px;
+  margin: auto;
+  display: block;
+}
+.container {
+  padding: 90px;
+  margin: 0.8rem;
+}
+a {
+  color: #ca5e10;
+}
